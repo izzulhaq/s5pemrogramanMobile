@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "593605657417",
+    "project_id": "aljauharapp",
+    "storage_bucket": "aljauharapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593605657417:android:0e5afa9ea35fac3faed098",
+        "android_client_info": {
+          "package_name": "com.aljauhar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMCCe0mDjWBQ0NXI1zmxxuOQuIlS905A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593605657417:android:041f7ab9b858c74baed098",
+        "android_client_info": {
+          "package_name": "com.aljauharapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMCCe0mDjWBQ0NXI1zmxxuOQuIlS905A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593605657417:android:a253509e8a8bfc10aed098",
+        "android_client_info": {
+          "package_name": "com.app.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMCCe0mDjWBQ0NXI1zmxxuOQuIlS905A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
